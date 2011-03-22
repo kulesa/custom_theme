@@ -4,6 +4,7 @@
 #top-menu a.all-tasks { background-image: url(../images/ticket.png); }
 #top-menu a.gantt { background-image: url(../images/ticket_go.png); }
 #top-menu a.calendar { background-image: url(../images/plugin.png); }
+#top-menu a.files { background-image: url(../images/text_list_bullets.png); }
 
 #top-menu a.all-tasks, #top-menu a.gantt, #top-menu a.calendar, #top-menu a.files { 
     background-position: 0% 40%;
